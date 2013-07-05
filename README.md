@@ -7,3 +7,4 @@ Testrepository to send messsages to test
 * a little pretty print
 * with the correct syntax
 * re-enabled all the clone and build steps
+* added run cmd to dockerfile
