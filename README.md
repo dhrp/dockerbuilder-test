@@ -9,3 +9,4 @@ Testrepository to send messsages to test
 * re-enabled all the clone and build steps
 * added run cmd to dockerfile
 * get results
+* check running
