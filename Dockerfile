@@ -7,4 +7,6 @@ RUN apt-get -y install python git ping
 # RUN apt-get install -y python-setuptools && easy_install pip
 # RUN pip install -r /docker-build/requirements.txt
 
+EXPOSE 80
+
 CMD ["ping", "orange1.koffiedik.net"]
