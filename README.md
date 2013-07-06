@@ -8,3 +8,4 @@ Testrepository to send messsages to test
 * with the correct syntax
 * re-enabled all the clone and build steps
 * added run cmd to dockerfile
+* get results
