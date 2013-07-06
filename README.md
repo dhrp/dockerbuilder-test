@@ -10,3 +10,4 @@ Testrepository to send messsages to test
 * added run cmd to dockerfile
 * get results
 * check running (no tag)
+* added expose
